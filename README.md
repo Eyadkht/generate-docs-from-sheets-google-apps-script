@@ -26,3 +26,8 @@ Get the Id of the Folder and insert it into TARGET_FOLDER_ID variable in Setting
 #### B) Manual Run
 -Go to Code.gs file.  
 -Click on the Run button.  
+
+### 5. Run the Script
+Modify the placeholders name in the KeysDictionary.gs file to setup your own template.  
+Names of the placeholders should match the ones in the Template Document.  
+Format (0:"TIMESTAMP_PLACEHOLDER") => (Column Number:"NAME_OF_PLACEHOLDER_IN_TEMPLATE"). First column is 0.  
